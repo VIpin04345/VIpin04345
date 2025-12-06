@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm Vipin Yadav a recent Computer Science and Engineering graduate student with a passion for Software development.I'm currently working on calling API in Django REST framework.<br>And looking for a Software Engineer role where I can apply my skills in Full Stack development.<br>I'm looking for help with improving my skills and finding the right Software Engineer opportunity.<br>Ask me about Python, Django, RSET API and Frontend/Backend development<br>
+“I’m a Computer Science graduate student passionate about Python, Django & REST APIs.
+Currently building APIs with Django REST Framework and looking for a Software Engineer role.
+Ask me about Backend, APIs, Python, Django, and Full-Stack development.”
 
 
 ## 🌐 Socials:
